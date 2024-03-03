@@ -4,6 +4,7 @@ This repository contains a template for a Chrome extension build with modern tec
 
 * Typescript
 * Backend server written with Express
+* Less to handle styling
 * Webpack
 * Static website to host extension landing page
 
